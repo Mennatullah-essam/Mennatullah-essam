@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mennatullah-Abdelfattah
-- 👀 I’m interested in computer science and biology
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
 - 😄 Pronouns: she/her
 
